@@ -1,0 +1,173 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-family: Arial, sans-serif;
+}
+
+body {
+	height: 2000px;
+}
+
+/* menu */
+
+.navbar {
+	background-color: blue;
+	height: 100px;
+}
+
+.navbar-default .navbar-nav > li > a {
+	color: #fff;
+	line-height: 50px;
+	font-size: 20px;
+}
+
+.navbar-brand {
+	line-height: 50px;
+}
+
+/* desc project */
+
+.desc_project_2 {
+	height: 400px;
+	background-color: #ccc;
+}
+
+.desc_project_3 {
+	background-color: blue;
+	height: 400px;
+}
+
+.desc_project_4 {
+	background-color: red;
+	height: 400px;
+}
+
+.desc_project_3 p {
+	color: #fff;
+	margin: 80px 0 0 0;
+	text-align: center;
+	font-family: Arial, sans-serif;
+	font-size: 30px;
+}
+
+.desc_project_4 .for_sl {
+	width: 760px;
+	height: 380px;
+	background-color: #fff;
+	margin: 10px auto;
+}
+
+/* slider */
+
+.sl_slide {
+	position: relative;
+}
+
+.sl_text {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	color: #fff;
+	text-align: center;
+	text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
+	padding: 20px 0;
+}
+
+.sl_zag, .sl_desc {
+	margin: 0;
+	padding: 0 10px;
+}
+
+.about_site {
+	height: 400px;
+	background-color: blue;
+	margin: 20px 0 0 0;
+}
+
+/* about me */
+
+#about_site p {
+	text-align: center;
+	color: #fff;
+	margin: 20px 0 0 0;
+	font-size: 30px;
+}
+
+/* table database */
+
+.table {
+	height: 800px;
+	background-color: blue;
+	margin: 20px 0 0 0;
+}
+
+.f_top {
+	margin: 20px 0 0 0;
+}
+
+.top {
+	height: 100px;
+	background-color: #ccc;
+}
+
+.top p {
+	color: #fff;
+	font-size: 20px;
+	text-align: center;
+	margin: 20px 0 0 0;
+}
+
+.top_2 {
+	height: 200px;
+}
+
+.top_2 .block_d {
+	width: 300px;
+	height: 150px;
+	background-color: #fff;
+	border-radius: 10px;
+	margin: 20px auto;
+	text-align: center;
+}
+
+.block_d p {
+	font-size: 20px;
+}
+
+.top_2 .block_d_l {
+	width: 300px;
+	height: 200px;
+	background-color: #fff;
+	border-radius: 10px;
+	margin: 20px auto;
+	text-align: center;
+}
+
+.top_2 .block_d_m {
+	width: 300px;
+	height: 200px;
+	background-color: #fff;
+	border-radius: 10px;
+	margin: 20px auto;
+	text-align: center;
+}
+
+/* footer */
+
+footer {
+	width: 100%;
+	height: 200px;
+	background-color: #000;
+	margin: 40px 0 0 0;
+}
+
+.inner_f h1 {
+	color: #fff;
+	text-align: center;
+}
+
+
+
+
+
+
